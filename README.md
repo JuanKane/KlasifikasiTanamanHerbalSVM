@@ -14,7 +14,6 @@ Proyek ini menggunakan algoritma **Support Vector Machine (SVM)** untuk mengklas
 
 **Link Dataset:**  
 [Tanaman Herbal (Google Drive)](https://drive.google.com/drive/folders/1ilO65ekMcN9g2JBg2hNY33hbOk8QE9Bi?usp=sharing)
-*(Tambahkan link Google Drive dataset di sini)*
 
 ---
 
